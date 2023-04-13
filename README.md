@@ -4,6 +4,9 @@ A basic description of how to deploy a Laravel application to a cloud web hostin
 
 ## Register
 
+> **Note**   
+> This repo is still in progress.
+
 ***
 
 ## Repo Resources
