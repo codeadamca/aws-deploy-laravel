@@ -1,11 +1,9 @@
 # Deploying Laravel to AWS
 
+> **Warning**  
+> This repo is a work in progress!
+
 A basic description of how to deploy a Laravel application to a cloud web hosting package. In this example I am using [AWS](https://aws.amazon.com/free/), but these instructions will work with most cloud hsoting solutions.
-
-## Register
-
-> **Note**   
-> This repo is a work in progress.
 
 ***
 
